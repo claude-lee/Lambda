@@ -4,7 +4,7 @@
 
   <groupId>lamda</groupId>
   <artifactId>lamda</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>lamda</name>
